@@ -1,6 +1,10 @@
 package com.eazybytes.cards.constants;
 
-public class CardsConstants {
+public final class CardsConstants {
+
+    private CardsConstants() {
+        // restrict instantiation
+    }
 
     public static final String  CREDIT_CARD = "Credit Card";
     public static final int  NEW_CARD_LIMIT = 1_00_000;
