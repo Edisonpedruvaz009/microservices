@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank loans related QA API's"
+  contactDetails:
+    name: "Smitha Roy - QA Lead"
+    email: "smitha@example.com"
+  onCallSupport:
+    -(666) 265-3765
+    -(666) 734-8371
