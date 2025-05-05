@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96e0f540-aa11-4302-8f9f-c8911d38d045" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/src/main/resources/config/loans-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/src/main/resources/config/loans-qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/src/main/resources/config/loans.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsContactInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsContactInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/accounts/accounts/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/cards/cards/cards/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/cards/cards/cards/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/cards/cards/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/cards/cards/cards/src/main/java/com/eazybytes/cards/dto/CardsContactInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/cards/cards/cards/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/cards/cards/cards/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/configserver/configserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/loans/loans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/loans/loans/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/loans/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/loans/loans/src/main/java/com/eazybytes/loans/dto/LoansContactInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../v2-spring-cloud-config/loans/loans/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../v2-spring-cloud-config/loans/loans/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/microservices/microservices/section6/v2-spring-cloud-config"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/microservices/microservices/section6/v2-spring-cloud-config&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
